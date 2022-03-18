@@ -1,2 +1,2 @@
 # isogenic_CRISPR_screens
-Method in Genome-wide CRISPR Screens Using Isogenic Cells Reveal Vulnerabilities Conferred by Loss of Tumor Suppressors manuscript
+Describes the binary essentiality methodology in "Genome-wide CRISPR Screens Using Isogenic Cells Reveal Vulnerabilities Conferred by Loss of Tumor Suppressors" manuscript by Xu Feng1,*, Mengfan Tang1,*, Merve Dede2,*, Dan Su1, Guangsheng Pei3, Dadi Jiang4, Chao Wang1, Zhen Chen1, Mi Li1, Litong Nie1, Yun Xiong1, Siting Li1, Jeong-Min Park1, Huimin Zhang1, Min Huang1, Klaudia Szymonowicz1, Zhongming Zhao3,5, Traver Hart2,6,#, Junjie Chen1,#
